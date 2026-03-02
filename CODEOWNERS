@@ -1,0 +1,7 @@
+# Core functionality
+/src/app.py                   @Bekhan9
+/src/backend/database.py      @Bekhan9
+/src/backend/routers/auth.py  @Bekhan9
+
+# Frontend
+/src/static/   @Bekhan9
